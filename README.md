@@ -1,4 +1,4 @@
-# slack_test_yash
+# bingo slack bot
 This is a Slack app that uses Microsoft's Bing Web Search API to return search and news
 results to slack channels.
 
